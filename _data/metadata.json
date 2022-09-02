@@ -1,0 +1,22 @@
+{
+  "title": "Brendan Montalvo",
+  "url": "https://BrendanMontalvo.github.io/",
+  "language": "en",
+  "description": "Personal blog for Brendan Montalvo",
+  "feed": {
+    "subtitle": "Personal blog for Brendan Montalvo",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://BrendanMontalvo.github.io/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://BrendanMontalvo.github.io/feed/feed.json"
+  },
+  "author": {
+    "name": "Brendan Montalvo",
+    "email": "brendan.montalvo21@gmail.com",
+    "url": "https://BrendanMontalvo.github.io/about-me/"
+  }
+}
+
